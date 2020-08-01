@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block tittle %} Pagina de Inicio  {% endblock %} </title>
+</head>
+<body>
+<h1>BIENVENIDOS</h1>
+    <ul>
+        <li>   <a href="/">Portada</a>              </li>
+        <li>   <a href="/about-me/">Acerca de</a>   </li>
+        <li>   <a href="/contact/">Contacto</a>     </li>
+    </ul>
+
+   {% block content %} {% endblock %}
+</body>
+</html>

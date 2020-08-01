@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f2cbdb5-330a-4255-890c-7b225dc0aaae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="22ad3f0a-cc3d-411a-9f7d-0a97315416ca" />
+  <component name="ProjectId" id="1fRMUACDJtbziCn2WAk6NehXexg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\djangoProject2\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f2cbdb5-330a-4255-890c-7b225dc0aaae" name="Default Changelist" comment="" />
+      <created>1596176465859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596176465859</updated>
+      <workItem from="1596176680063" duration="92000" />
+      <workItem from="1596176791749" duration="118000" />
+      <workItem from="1596253690810" duration="56000" />
+      <workItem from="1596253877028" duration="2993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="152" key="#Web_Browsers" timestamp="1596256548502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="152" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1596256548502" />
+    <state x="551" y="311" key="Github.ShareDialog" timestamp="1596256687492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="311" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596256687492" />
+    <state x="192" y="117" key="Github.UntrackedFilesDialog" timestamp="1596256996429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="192" y="117" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596256996429" />
+  </component>
+</project>
